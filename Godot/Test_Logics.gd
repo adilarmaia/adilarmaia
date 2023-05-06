@@ -14,3 +14,7 @@ func _ready():
         print("Você é baixo...")
     else:
         print("Você é alto...")
+
+# a função Ready ela é chamada uma vez ...
+# já a função Pyshics_process(Delta)  ou _process 
+# ela é chamada em frames na animação então na godot é a mesma na Unity.
